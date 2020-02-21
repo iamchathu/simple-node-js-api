@@ -1,0 +1,10 @@
+{
+  "name": "simple-node-js-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API for a workshop",
+  "main": "index.js",
+  "repository": "https://github.com/iamchathu/simple-node-js-api.git",
+  "author": "Chathu Vishwajith <4evercreations@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
