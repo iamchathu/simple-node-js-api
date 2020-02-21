@@ -4,7 +4,7 @@
   "description": "Simple Node.js API for a workshop",
   "main": "index.js",
   "repository": "https://github.com/iamchathu/simple-node-js-api.git",
-  "author": "Chathu Vishwajith <4evercreations@gmail.com>",
+  "author": "Chathu Vishwajith <iam@chathu.me>",
   "license": "MIT",
   "private": true
 }
