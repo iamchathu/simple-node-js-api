@@ -75,7 +75,7 @@ yarn add -D nodemon
 * Let's add npm script to run it. Open your `package.json` and add following to it.
 
 ```json
-scripts": {
+"scripts": {
     "dev": "nodemon",
     "start": "node index.js"
   },
