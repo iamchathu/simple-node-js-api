@@ -4,11 +4,12 @@
   "description": "Simple Node.js API for a workshop",
   "main": "index.js",
   "repository": "https://github.com/iamchathu/simple-node-js-api.git",
-  "author": "Chathu Vishwajith <4evercreations@gmail.com>",
+  "author": "Chathu Vishwajith <iam@chathu.me>",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1"
